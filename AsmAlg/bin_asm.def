@@ -1,0 +1,2 @@
+LIBRARY "Bin_asm"
+EXPORTS BinaryAsm
